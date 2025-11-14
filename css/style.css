@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(17, 34, 86);
+    background-color: rgb(151, 192, 195);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,7 +32,7 @@ button[type="submit"] {
     margin-top: 20px;
     width: 100%;
     padding: 12px;
-    background-color: #3968b2;
+    background-color: #17ed10;
     color: white;
     border: none;
     border-radius: 6px;
@@ -41,5 +41,5 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #1d69d2;
+    background-color: #16f057;
 }
